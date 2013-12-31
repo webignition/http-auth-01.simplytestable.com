@@ -1,0 +1,5 @@
+/* Intentionally invalid */
+html, body {
+  padding: foo;
+  margin: bar;
+}
